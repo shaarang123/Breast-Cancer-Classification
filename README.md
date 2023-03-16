@@ -50,4 +50,4 @@ The breast cancer classification project using neural network and deep learning 
 ✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as medical science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
 
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
-Overall, building a breast cancer classification application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
+Overall, building a cancer classification application is a challenging and rewarding experience that requires technical expertise.
